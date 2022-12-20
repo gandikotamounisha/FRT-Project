@@ -23,37 +23,46 @@ This is a web based application developed for Fin Tech related English based web
 
 
 ### home-
+![pic1](https://user-images.githubusercontent.com/115691068/208588260-35d87523-5d9d-4fb6-879f-beadeee13b77.png)
+
+
 
 
    
 
-### About Us -
+### About Us -![pic2](https://user-images.githubusercontent.com/115691068/208588396-3bddad53-979e-44ab-8902-49ba9b8c2bf7.png)
 
 
 
 
 
 
-### services-
+
+### services-![pic3](https://user-images.githubusercontent.com/115691068/208588580-450abce8-1a8e-48d0-8335-6b9a8b5253bb.png)
 
 
 
 
-### team-
+
+### team-![pic4](https://user-images.githubusercontent.com/115691068/208588761-2f6b747a-5c64-4d9f-a825-39725b5d0490.png)
 
 
 
 
-### gallery-
+
+### gallery-![pic5](https://user-images.githubusercontent.com/115691068/208588893-ff17c02a-76f2-40f4-9ef1-9fc3583433ae.png)
 
 
 
 
-### contact us-
+
+### contact us-![pic6](https://user-images.githubusercontent.com/115691068/208589034-8eeb7ea0-bd84-4759-b5f4-6483cf4a2640.png)
 
 
 
-### healthbot-
+
+### healthbot-![pic7](https://user-images.githubusercontent.com/115691068/208589250-cf5b671e-cbd1-481f-b252-7d7d6f33143c.png)
+
 
 
 
