@@ -6,6 +6,7 @@ This is a web based application developed for Fin Tech related English based web
 
 
 *Project Link* - https://brave-ocean-084776400.2.azurestaticapps.net
+
 *project demo video link*-
 
 
