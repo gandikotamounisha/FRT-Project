@@ -1,11 +1,12 @@
-# FRT-Project # ✨ Online Banking  ✨
+ ✨ Online Banking  ✨
 
 This is a web based application developed for Fin Tech related English based website in india
 
 ### This web based banking application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* - https://brave-ocean-084776400.2.azurestaticapps.net
+*project demo video link*-
 
 
 ## Features and Functionalities 😃
