@@ -73,6 +73,7 @@ This is a web based application developed for Fin Tech related English based web
 
 
 ## Azure Health Bot- 
+![Screenshot (1)](https://user-images.githubusercontent.com/115691068/209634719-655c2ce3-7706-466c-af17-c2f3220543b6.png)
 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
