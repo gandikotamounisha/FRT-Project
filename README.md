@@ -67,7 +67,12 @@ This is a web based application developed for Fin Tech related English based web
 
 
 
-## Tech Stack 💻![pp7](https://user-images.githubusercontent.com/115691068/208638690-6552dcc7-9260-4da6-95df-7fb7e8e922dd.png)
+## Azure Static Web Aapps- 💻![pp7](https://user-images.githubusercontent.com/115691068/208638690-6552dcc7-9260-4da6-95df-7fb7e8e922dd.png)
+
+
+
+
+## Azure Health Bot- 
 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
